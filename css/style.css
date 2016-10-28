@@ -10,6 +10,7 @@ html, body {
 }
 @media (max-width: 768px) { 
   .box-register{
+    padding-top: 15px;
        position: static !important;
        width: 100% !important;
     }
@@ -20,6 +21,7 @@ html, body {
  }
  @media (max-width: 1200px ) { 
   .box-register{
+    padding-top: 15px;
      position: static !important;
      width: 100% !important;
   }
