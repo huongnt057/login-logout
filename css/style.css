@@ -28,85 +28,7 @@ html, body {
 
  }
 
-.box-register{
-     position: absolute;
-    top:10%;
-    width: 50%;
-    background-color: rgba(0, 0, 0, 0.8);
-  border-radius: 5px;
-    left: 25%;
-  }
-  .col-left{
-    float: left;
-    width: 50%;
-  }
-  .form-group{
-      margin: 50px;
-  }
 
- .form-group label{
-    width: 100%;
-    display: block;
-    color: #fff;
-    margin: 15px 0 5px 0;
-  }
-  .form-group input,select{
-    font-size: 16px;
-  }
-  .box-register{
-    display: none
-  }
-
-  .item-group{
-    margin-bottom: 10px;
-  }
-  .register_row{
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    height: 56px;
-    padding: 10px;
-  }
-  .select_country{
-    border: 0;
-      width: 90%;
-      background: transparent;
-      color: rgba(255, 255, 255, 0.8);
-      padding-left: 23px;
-      height: 100%
-  }
-  .select_country option{
-    height: 100%;
-    color:#000;
-
-  }
-  .img-logo{
-    min-height: 100px;
-    text-align: center;
-    margin:20px auto;
-    width: 80%;
-  }
-  .img-logo img{
-    max-width: 80px;
-  }
-  .text-form{
-    color:#fff;
-    font-size: 15px;
-    text-align: center;
-    display: block;
-  }
-  .btnsubmit{
-    width: 100%;
-    text-align: center;
-    clear: both;
-    margin-bottom: 25px;
-  }
-  .login_register{
-    margin: 0 auto;
-    padding: 10px 40px;
-    background: #fab915;
-    font-size: 1.5rem;
-    border-radius: 3rem;
-    cursor: pointer;
-  }
 input, button {
   outline: none;
   border: none;
@@ -487,7 +409,7 @@ input, button {
 }
 .select_country{
   border: 0;
-    width: 95%;
+    width: 90%;
     background: transparent;
     color: rgba(255, 255, 255, 0.8);
     padding-left: 23px;
